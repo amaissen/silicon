@@ -1,3 +1,3 @@
 [submodule "silver"]
 	path = silver
-	url = https://github.com/amaissen/silver
+	url = https://github.com/amaissen/silver.git
